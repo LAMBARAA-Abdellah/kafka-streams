@@ -54,8 +54,10 @@ Consommer des données météorologiques depuis le topic `weather-data`, convert
 ![Click](captures/click.jpg)
 
 ### Page de clic bien conçue
-![Click](captures/click design.jpg)
+![Click](captures/click-design.jpg)
 
+### liste des clicks
+![Click](captures/list-Clicks.jpg)
 
 ### 🔄 Traitement Streams :
 - Compte les occurrences du message `"click"`
@@ -66,10 +68,10 @@ Consommer des données météorologiques depuis le topic `weather-data`, convert
 - Résultat : `Nombre total de clics : 47`
 
 ### Affichage simple du nombre de clics
-![Count](captures/count clicks.jpg)
+![Count](captures/count-clicks.jpg)
 
 ### Affichage stylisé du total de clics
-![Total](captures/total count design.jpg)
+![Total](captures/total-count-design.jpg)
 
 
 ---
